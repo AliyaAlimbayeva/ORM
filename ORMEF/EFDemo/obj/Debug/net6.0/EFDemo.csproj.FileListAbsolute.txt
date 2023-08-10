@@ -1,0 +1,14 @@
+D:\Course\14 Task\ORM\ORMEF\EFDemo\bin\Debug\net6.0\EFDemo.deps.json
+D:\Course\14 Task\ORM\ORMEF\EFDemo\bin\Debug\net6.0\EFDemo.runtimeconfig.json
+D:\Course\14 Task\ORM\ORMEF\EFDemo\bin\Debug\net6.0\EFDemo.dll
+D:\Course\14 Task\ORM\ORMEF\EFDemo\bin\Debug\net6.0\EFDemo.pdb
+D:\Course\14 Task\ORM\ORMEF\EFDemo\obj\Debug\net6.0\EFDemo.csproj.AssemblyReference.cache
+D:\Course\14 Task\ORM\ORMEF\EFDemo\obj\Debug\net6.0\EFDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\14 Task\ORM\ORMEF\EFDemo\obj\Debug\net6.0\EFDemo.AssemblyInfoInputs.cache
+D:\Course\14 Task\ORM\ORMEF\EFDemo\obj\Debug\net6.0\EFDemo.AssemblyInfo.cs
+D:\Course\14 Task\ORM\ORMEF\EFDemo\obj\Debug\net6.0\EFDemo.csproj.CoreCompileInputs.cache
+D:\Course\14 Task\ORM\ORMEF\EFDemo\obj\Debug\net6.0\EFDemo.dll
+D:\Course\14 Task\ORM\ORMEF\EFDemo\obj\Debug\net6.0\refint\EFDemo.dll
+D:\Course\14 Task\ORM\ORMEF\EFDemo\obj\Debug\net6.0\EFDemo.pdb
+D:\Course\14 Task\ORM\ORMEF\EFDemo\obj\Debug\net6.0\EFDemo.genruntimeconfig.cache
+D:\Course\14 Task\ORM\ORMEF\EFDemo\obj\Debug\net6.0\ref\EFDemo.dll

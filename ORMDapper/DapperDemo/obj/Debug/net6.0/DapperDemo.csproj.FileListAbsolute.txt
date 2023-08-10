@@ -1,0 +1,12 @@
+D:\Course\14 Task\ORM\ORMDapper\DapperDemo\obj\Debug\net6.0\DapperDemo.csproj.AssemblyReference.cache
+D:\Course\14 Task\ORM\ORMDapper\DapperDemo\obj\Debug\net6.0\DapperDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\14 Task\ORM\ORMDapper\DapperDemo\obj\Debug\net6.0\DapperDemo.AssemblyInfoInputs.cache
+D:\Course\14 Task\ORM\ORMDapper\DapperDemo\obj\Debug\net6.0\DapperDemo.AssemblyInfo.cs
+D:\Course\14 Task\ORM\ORMDapper\DapperDemo\obj\Debug\net6.0\DapperDemo.csproj.CoreCompileInputs.cache
+D:\Course\14 Task\ORM\ORMDapper\DapperDemo\bin\Debug\net6.0\DapperDemo.deps.json
+D:\Course\14 Task\ORM\ORMDapper\DapperDemo\bin\Debug\net6.0\DapperDemo.dll
+D:\Course\14 Task\ORM\ORMDapper\DapperDemo\bin\Debug\net6.0\DapperDemo.pdb
+D:\Course\14 Task\ORM\ORMDapper\DapperDemo\obj\Debug\net6.0\DapperDemo.dll
+D:\Course\14 Task\ORM\ORMDapper\DapperDemo\obj\Debug\net6.0\refint\DapperDemo.dll
+D:\Course\14 Task\ORM\ORMDapper\DapperDemo\obj\Debug\net6.0\DapperDemo.pdb
+D:\Course\14 Task\ORM\ORMDapper\DapperDemo\obj\Debug\net6.0\ref\DapperDemo.dll

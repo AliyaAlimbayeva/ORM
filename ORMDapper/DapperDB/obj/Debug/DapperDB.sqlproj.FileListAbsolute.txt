@@ -1,0 +1,6 @@
+D:\Course\14 Task\ORM\ORMDapper\DapperDB\bin\Debug\DapperDB.dacpac
+D:\Course\14 Task\ORM\ORMDapper\DapperDB\bin\Debug\DapperDB.dll
+D:\Course\14 Task\ORM\ORMDapper\DapperDB\bin\Debug\DapperDB.pdb
+D:\Course\14 Task\ORM\ORMDapper\DapperDB\obj\Debug\DapperDB.sqlproj.AssemblyReference.cache
+D:\Course\14 Task\ORM\ORMDapper\DapperDB\obj\Debug\DapperDB.dll
+D:\Course\14 Task\ORM\ORMDapper\DapperDB\obj\Debug\DapperDB.pdb
